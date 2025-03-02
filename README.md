@@ -1,8 +1,11 @@
-### Hi there!
+## Hi there! I'm Tonje!
+#### Facts about me:
+- 24 years old and live in Norway
+- I have a degree in frontend development
+- Currently learning backend
+- Visit my [portfolio](https://stensen-portfolio.netlify.app/) for more information
 
-- I'm Tonje,
-- 24 years old from Norway.
-- Currently learning frontend and backend development.
+
 
 <!--
 **Tanific/Tanific** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
