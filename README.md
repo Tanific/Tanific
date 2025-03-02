@@ -1,5 +1,4 @@
 ## Hi there! I'm Tonje!
-#### Facts about me:
 - 24 years old and live in Norway
 - I have a degree in frontend development
 - Currently learning backend
