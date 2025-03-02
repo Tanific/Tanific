@@ -1,6 +1,8 @@
-### Hi! :)
+### Hi there!
 
-I'm Tonje / Tani, and I am a 23 year old front end-development student from Norway.
+- I'm Tonje,
+- 24 years old from Norway.
+- Currently learning frontend and backend development.
 
 <!--
 **Tanific/Tanific** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
